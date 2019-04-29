@@ -1,7 +1,7 @@
 /*
 Author      : Javad Ebadi
 Date        : 30 Mar 2019
-Description : a program to concatinte two text files (vertically)
+Description : a program to concatinte two text files (vertically and horizontally)
 */
 
 #include <iostream>
